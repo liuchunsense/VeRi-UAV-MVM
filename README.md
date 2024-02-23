@@ -2,7 +2,7 @@
 
 ## **VeRi-UAV-MVM based Drone-Capture vehicle segmentation dataset**
 
-![img](https://github.com/liuchunsense/UVSD/blob/master/UVSD_example.png)
+![img]([https://github.com/liuchunsense/VeRi-UAV-MVM/blob/main/MVM.jpg])
 
 ## What is VeRi-UAV-MVM?
 
